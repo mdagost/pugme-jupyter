@@ -1,4 +1,4 @@
-define(['base/js/namespace','base/js/dialog', 'jquery'],function(IPython, dialog, $){
+define(['base/js/namespace','base/js/dialog', 'jquery'], function(IPython, dialog, $){
     
     var get_pug_url = function(type){
 	var deferred = $.Deferred();
