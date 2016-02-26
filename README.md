@@ -2,6 +2,8 @@
 
 **Pugs in your jupyter notebook.** 
 
+[The JupyterDay Chicago Talk](https://www.youtube.com/watch?v=Z4swQ-lUo7Y&feature=youtu.be)
+
 To install the extension:
 
 ```
