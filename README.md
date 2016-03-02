@@ -23,4 +23,4 @@ cm.update('notebook', {"load_extensions": {"pugme": True}})
 
 Voila!  You should now see the pug icon in the notebook toolbar.
 
-**Note: This has only been tested with jupyter 4.0.6.**
+**Note: This has only been tested with notebook 4.0.6.**
